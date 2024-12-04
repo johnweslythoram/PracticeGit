@@ -1,0 +1,21 @@
+* {
+  background-color: skyblue;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.left {
+}
+
+.right {
+}
+
+.right form {
+  display: flex;
+  flex-direction: column;
+}
